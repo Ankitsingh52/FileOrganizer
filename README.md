@@ -10,12 +10,12 @@
 - Clone the repository
 - type `npm link` on terminal
 
-## To change pep command
+## To change pep command:
 - Goto `package.json` bin property and change pep to something of your choice
 
-## Commands
+## Commands:
 ```
-    - help : List all the Commands we can Perform
+    - help : Lists all the Commands we can Perform
     - tree : Shows a tree like structure of the directory
     - organize: This organizes the files based on some predefined categories such:
         - Documnents
@@ -24,7 +24,7 @@
         - Code
         - Others
 ```
-## Syntax
+## Syntax:
 - For tree Command
 ```
     - pep tree
