@@ -27,14 +27,14 @@
 ## Syntax:
 - For tree Command
 ```
-    - pep tree
-    - pep tree "path"
+    - npx pep tree
+    - npx pep tree "path"
 ```
 - For organize command
 ```
-    - pep organize "path
+    - npx pep organize "path
 ```
 - For help command
 ```
-    - pep help
+    - npx pep help
 ```
